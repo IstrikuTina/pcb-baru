@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2019/02/specification-for-printed-circuit-boards.html"}
 if(x=="2"){xxx="/2019/02/pcb-design-software.html"}
 if(x=="3"){xxx="/2019/02/3d-printer-pcb-etching.html"}
 if(x=="4"){xxx="/2019/02/pcb-board-test.html"}
-if(x=="5"){xxx="/2019/02/pcb-board-designs.html"}a_to_ve[i].href="https://www.octobmoti.com/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2019/02/pcb-board-designs.html"}a_to_ve[i].href="https://www.octobmoti.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
